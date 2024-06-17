@@ -39,14 +39,6 @@ Contributions are welcome! Please follow these steps to contribute:
 
 This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
 
-## Why I Made This Plugin
-
-As a Minecraft enthusiast, I always enjoyed building intricate farms and redstone machines that would automate tasks and provide a steady stream of resources. However, I found it frustrating that these systems would stop working whenever I left the area. I wanted a way to keep specific chunks loaded so that my creations would continue running smoothly, regardless of where I was in the game.
-
-One day, I built a flying machine and set it on a long journey. I realized the machine would stop as soon as it moved out of a loaded chunk. This inspired me to create the PortableChunkLoader plugin. With this plugin, the flying machine continued its journey without any interruption, demonstrating the power and utility of portable chunk loaders.
-
-PortableChunkLoader provides a simple and effective tool for other players who face similar challenges. With this plugin, you can ensure that your farms, machines, and other automated systems remain active, even if they are moving. I hope you find this plugin as useful as I do and that it helps bring your Minecraft world to life in new and exciting ways.
-
 ## Contact
 
 For support, questions, or suggestions, please open an issue on the [GitHub repository](https://github.com/OkinawaBoss/portablechunkloader/issues).
