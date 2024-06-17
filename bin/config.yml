@@ -1,0 +1,26 @@
+# config.yml
+
+# The material type used for the Chunk Loader item.
+# Valid values are any material names from the Bukkit Material enum.
+chunk_loader_item: REDSTONE_LAMP
+
+# If the chunk loader item has a powered state, set this to true.
+# This is useful if you are using items like REDSTONE_LAMP.
+item_powered: true
+
+# If the chunk loader item is an END_PORTAL_FRAME and you want it to have an Eye of Ender, set this to true.
+item_ender_eye_enabled: false
+
+# The display name of the Chunk Loader item.
+item_display_name: "&4Chunk Loader"
+
+# The lore of the Chunk Loader item.
+# Use {DURATION} to insert the duration dynamically.
+item_lore:
+  - "&aPut this item down to force"
+  - "&a that chunk to stay loaded"
+  - "&4Duration: &6{DURATION}"
+
+# Note: Chunk loaders that use items that normally can't be pushed by a piston will not be able to be moved via a piston.
+# Note: Chunk loaders that use items that normally can't be picked up (such as End Portal Frames) will not be able to be picked up.
+# Note: It is not recommended to change these settings after chunk loaders are placed in the world.
